@@ -27,7 +27,7 @@ SECRET_KEY = '($bj9_wl=75u+cqt+e^#u!vous9c4g0adxi1mvix(*fm4=d*4v'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mustafaalamin.pythonanywhere.com', ]
 
 
 # Application definition
